@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_Menu", "Menu\Menu.vcxproj", "{A24DC627-09C5-4739-B8DB-B2D22F088D35}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Toolbar", "Toolbar\Toolbar.vcxproj", "{7422CEED-24A8-4934-B3D2-789DBBAD7BC3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MDI", "MDI\MDI.vcxproj", "{117609DD-4A90-42A5-9C87-B3C02BB079D5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_TreeView", "TreeView\TreeView.vcxproj", "{C56AC407-5717-49CE-965A-0483EB8540AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24DC627-09C5-4739-B8DB-B2D22F088D35}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A24DC627-09C5-4739-B8DB-B2D22F088D35}.Debug|Win32.Build.0 = Debug|Win32
+		{A24DC627-09C5-4739-B8DB-B2D22F088D35}.Release|Win32.ActiveCfg = Release|Win32
+		{A24DC627-09C5-4739-B8DB-B2D22F088D35}.Release|Win32.Build.0 = Release|Win32
+		{7422CEED-24A8-4934-B3D2-789DBBAD7BC3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7422CEED-24A8-4934-B3D2-789DBBAD7BC3}.Debug|Win32.Build.0 = Debug|Win32
+		{7422CEED-24A8-4934-B3D2-789DBBAD7BC3}.Release|Win32.ActiveCfg = Release|Win32
+		{7422CEED-24A8-4934-B3D2-789DBBAD7BC3}.Release|Win32.Build.0 = Release|Win32
+		{117609DD-4A90-42A5-9C87-B3C02BB079D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{117609DD-4A90-42A5-9C87-B3C02BB079D5}.Debug|Win32.Build.0 = Debug|Win32
+		{117609DD-4A90-42A5-9C87-B3C02BB079D5}.Release|Win32.ActiveCfg = Release|Win32
+		{117609DD-4A90-42A5-9C87-B3C02BB079D5}.Release|Win32.Build.0 = Release|Win32
+		{C56AC407-5717-49CE-965A-0483EB8540AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C56AC407-5717-49CE-965A-0483EB8540AC}.Debug|Win32.Build.0 = Debug|Win32
+		{C56AC407-5717-49CE-965A-0483EB8540AC}.Release|Win32.ActiveCfg = Release|Win32
+		{C56AC407-5717-49CE-965A-0483EB8540AC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

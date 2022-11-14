@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'RequestMinimum' : 已標記為過時
+          訊息: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  SelfDesignDlg.cpp
+  SlefDesignDialog.cpp
+  正在產生程式碼...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  SlefDesignDialog.vcxproj -> D:\Louis\TA\OOP2021\Windows form\Windows_Form_2\Debug\SlefDesignDialog.exe

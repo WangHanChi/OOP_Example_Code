@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\PROGRAM FILES (X86)\REFERENCE ASSEMBLIES\MICROSOFT\VBPOWERPACKS\V10.0\MICROSOFT.VISUALBASIC.POWERPACKS.VS.DLL" is missing.
+  stdafx.cpp
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'RequestMinimum' : 已標記為過時
+          訊息: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  Controls-ToolTip.cpp
+  正在產生程式碼...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  Controls-ToolTip.vcxproj -> D:\Louis\TA\OOP2021\Windows form\Windows_Form_2\Debug\Controls-ToolTip.exe
